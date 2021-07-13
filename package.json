@@ -1,0 +1,23 @@
+{
+  "name": "tutorial_restaurantpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programmersunite/Tutorial_RestaurantPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programmersunite/Tutorial_RestaurantPage/issues"
+  },
+  "homepage": "https://github.com/Programmersunite/Tutorial_RestaurantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
